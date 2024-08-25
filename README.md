@@ -15,8 +15,9 @@ Prediction and Visualization: Made predictions and visualized results to compare
 Results
 Training Accuracy: ~95.57%
 Test Accuracy: ~93.35%
+
 #CODEALPHA_TWITTER_SENTIMENT
-Twitter Sentiment Analysis using LSTM
+Task2: Twitter Sentiment Analysis using LSTM
 This repository contains a Twitter Sentiment Analysis project implemented using an LSTM neural network in TensorFlow/Keras. The project classifies tweets into four categories: Positive, Neutral, Negative, and Irrelevant.
 
 Overview
